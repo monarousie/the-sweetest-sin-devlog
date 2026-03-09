@@ -20,4 +20,10 @@ Generated initial visual assets<br>
 Defined main characters and core dynamics<br>
 Wrote the opening scene of the story<br>
 Implemented base script in Ren'Py<br>
-Tested dialogue flow and basic functionality
+Tested dialogue flow and basic functionality<br>
+
+### 2026-03-09
+Added background music with fade-in to opening scene<br>
+Implemented notification dot system<br>
+Started building phone UI screen<br>
+Added phone frame asset and background image
